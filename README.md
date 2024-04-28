@@ -1,14 +1,20 @@
 Sign up page
 
-![Screenshot (363)](https://github.com/chavankrishna/chat_application/assets/68773719/cb0cd097-bc8a-4499-b5cc-fc6a9c9e978d)
+![Screenshot (374)](https://github.com/chavankrishna/chat_application/assets/68773719/1f09eb10-34cc-4694-893e-3643f15fb63a)
+
 
 Login page
 
-![Screenshot (364)](https://github.com/chavankrishna/chat_application/assets/68773719/19ce50ff-b29b-4de6-99be-d9d631f18ea1)
+![Screenshot (373)](https://github.com/chavankrishna/chat_application/assets/68773719/604229f8-576e-4774-9c96-1a5b2ffaab9a)
+
 
 Home page
 
-![Screenshot (365)](https://github.com/chavankrishna/chat_application/assets/68773719/e0a74765-6382-465f-91bc-97b590d83a3f)
+![Screenshot (375)](https://github.com/chavankrishna/chat_application/assets/68773719/2ec6b9c4-fa53-4087-b45d-fc2d9afb83b5)
+
 
 chatting
-![Screenshot (366)](https://github.com/chavankrishna/chat_application/assets/68773719/e099f7f6-a0c6-46f5-a831-ae00c7a175e4)
+
+![Screenshot (376)](https://github.com/chavankrishna/chat_application/assets/68773719/4a7439f7-6fc2-4661-b0c8-2ca5ab61aff3)
+
+
